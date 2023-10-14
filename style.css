@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: darkgray ;
+    text-decoration: underline;
+    
+}
+body {
+    background-color: rgba(176, 169, 169, 0.952);
+    background-image: url("maxresdefault.jpg");
+    background-size: cover; 
+}
+.Gojo{
+    width: 300px;
+    margin-left: 100px;
+}
+.xx{
+    width: 300px;
+    margin-top: 200px;
+
+}
+.ww {
+    width: 250px;
+    margin-top: 50px;
+
+}
+.Sukuna{
+    display: flex;
+}
+
+.de {
+    margin-top: 50px;
+    height: 300px;
+}
+.bbb{
+    display: flex;
+    margin-top: 50px;
+    height: 300px;
+}
+.lll{
+    display: flex;
+    margin-top: 50px;
+    height: 300px;
+}
